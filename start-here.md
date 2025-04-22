@@ -9,7 +9,7 @@ sidebar:
       - text: "How to Write a Good Report and Use the CVSS Calculator"
         url: /resources/articles/writing_a_report_and_cvss
       - text: "How and When to Ask for More Help"
-        url: /resources/articles/asking_for_help
+        url: /woof meow cat
   - title: Suggested Material
     links:
       - text: "Hacktivity"
